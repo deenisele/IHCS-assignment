@@ -23,7 +23,18 @@ The SIR model has long been ***the model*** for epidemiologists, in large part b
 ####Continuous signalling model
 As the lockdowns lengthen, the antivax movement gained traction in Australia (Loomes, 2021). Whether the growth and passion of this group is natural or artificial, it has become a problem. This has the potential to become a barrier to herd immunity if the number of antivaxxers get large enough. The signalling model explains why government and public healthcare officials have made numerous statements supporting the efficacy and safety of the COVID-19 vaccines. This, however, may have the opposite effect on people who distrust the government.
 
-##3. 
+##3. Suggested models
+####Agent Based Models
+Agent-Based modelling simulates the interactions of “agents” towards other agents and their environment which they are set in, with the consideration of the rules applied to its environment. It allows for the modelling of individual interactions and its often limitless, hence, its fundamental use in understanding complex systems. These models assist in the understanding of different properties and behaviours of agents within dynamic systems (Bonabeau, 2002) and offers a strong representation of real-world situations.  Regarding the COVID-19 vaccines, this model enables for the focus of the efficiency on rollout methods and the dynamic relationships of individuals complex behaviours (Shan & Yang, 2008).  
+
+####Alternate path model
+Alternate path models provide an insight on different pathways a process can be carried out to which the most optimal path is chosen. Shortest path algorithms must be calculated which include the logistics of transporting the vaccines to health professionals, then to unvaccinated individuals.  Different pathways will be considered however in the circumstance of COVID-19 and its fast transmission, it is evident that the speed optimisation holds the most importance.   
+
+Alternate path models will also provide extremely useful in vaccine rollouts and their costs. This includes the costs that apply to the government and individuals. Alternate path modelling will further find the most optimal pathway that reduces the overall cost of administering the vaccines. 
+
+  
+
+*If we need an actual different third model, then we can use the network models – helps us understand how individuals interact with each other e.g., transmission - health professionals are more connected to the public whilst others in rural areas are less likely to come in contact with those in high density populations* 
 ##4. Reference
 Janda, M., & Lasker, P. (2021). 'Economy held together with duct tape' as Australia officially enters recession. ABC News. https://www.abc.net.au/news/2020-09-02/australian-recession-confirmed-as-economy-shrinks-in-june-qtr/12619950  
 Davey, M. (2021). Vaccine chart toppers: what Australia can learn from world’s best rollouts. The Guardian. https://www.theguardian.com/society/2021/apr/15/vaccine-chart-toppers-what-australia-can-learn-from-worlds-best-rollouts  
