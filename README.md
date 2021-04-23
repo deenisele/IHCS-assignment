@@ -2,7 +2,7 @@
 
 ---
 
-##1. Introduction
+## 1. Introduction
 
 There has been increasing importance on the role of vaccines and their ability to protect the well-being of society and has also played a historical role in fulfilling the eradication of historic diseases, as to why it is essential that the current COVID-19 vaccines are distributed efficiently to provide long-term protection to populations. The rollout of the COVID-19 vaccine has raised concerns to the logistics of vaccines, overall delivery of vaccines, and the prioritisation of vaccinations among the Australian population. This issue will be analysed and understood through a series of models which further conclude in potential solutions.  
 
