@@ -48,3 +48,9 @@ Janda, M., & Lasker, P. (2021). 'Economy held together with duct tape' as Austra
 Loomes, P. (2021). Coronavirus vaccine: What we misunderstand about anti-vaxxers. Nationwide News. https://www.news.com.au/lifestyle/health/health-problems/coronavirus-vaccine-what-we-misunderstand-about-antivaxxers/news-story/0ef947d1e56e560ee835a0f043f23a33
 
 Sas, N. (2021). Australia's COVID-19 vaccine supply is still patchy. But will other vaccines help fill the void?. ABC News. https://www.abc.net.au/news/2021-04-04/australia-covid19-vaccine-supply-gaps-void-to-be-filled/100043348
+
+Bonabeau, E. (2002). Agent-based modeling: Methods and techniques for simulating human systems. Proceedings Of The National Academy Of Sciences, 99(Supplement 3), 7280-7287. https://doi.org/10.1073/pnas.082080899 
+
+Shan, Y., & Yang, A. (2008). Applications of Complex Adaptive Systems (IGI Publishing).
+
+Optimal control strategy for a discrete time epidemic models of mycobacterium tuberculosis infections. (2020). https://doi.org/10.28919/cmbn/4328 
