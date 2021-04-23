@@ -52,9 +52,9 @@ The application of ABM is dependant on 3 major factors. The first 1st is to defi
 
 
 ##### Required data sources:
-•	The population of each district and city.
-•	Occupation populations within districts and cities.
-•	An approximation of how often agents come in contact within each district or city.
+* The population of each district and city.
+* Occupation populations within districts and cities.
+* An approximation of how often agents come in contact within each district or city.
 
 
 
@@ -72,9 +72,9 @@ The element that will act as a node within the network will be defined by geogra
 
 
 ##### Required data sources:
-•	The population of each district and city.
-•	The estimated average rate of vaccination within districts.
-•	The estimated travel time of each route of transportation.
+* The population of each district and city.
+* The estimated average rate of vaccination within districts.
+* The estimated travel time of each route of transportation.
 
 
 #### Model 3  - Cheapest network model
@@ -91,7 +91,7 @@ The element that will act as a node within the network will be defined by geogra
 
 
 ##### Required data sources:
-•	Estimated cost of transport between points of interest.
+* Estimated cost of transport between points of interest.
 Summary
 
   These models aid us in attempting to determine the ‘best’ way to ensure the most efficient vaccine rollout in Australia. However, there is room to enhance these systems breaking their system boundaries. Furthermore, it is crucial to understand that no one model represents the ‘best’ possible outcome. Instead, an integration of the three models is required to form a holistic hybrid system that brings the government closer to it’s goal. A major point to consider when viewing these models is that they all assume an abundance of vaccines which may be the case in reality. 
