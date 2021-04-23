@@ -36,19 +36,22 @@ Alternate path models will also provide extremely useful in vaccine rollouts and
 
 #### Model 1 - Agent-based modeling
 
-What it is:
-	Agent-Based Modelling follows the process of identifying all the various categories of characters within the system. This allows the system thinker to compare differing traits of these characters and depending on their goal, the system analyser can view any issues regarding the link between agents. As such, the system modeler can reposition the links between characters to form the most beneficial system
-Premise: 
-	The premise behind applying an ABM to successfully analyse the rollout of the covid-19 vaccine is to create a ranking of importance that puts those most at risk of spreading the virus on top and the least at the bottom. This would imply that the safest way to roll out the vaccine is to ensure the minimalization of the virus and protect the health of the Australian community.
-How its applied:
-	The application of ABM is dependant on 3 major factors. The first 1st is to define who the agents are. In our scenario we will define our agents as the generalised identity of a communal character from any and all sectors of society. This would mean one agent could be the representative nurse, a nurse of all nurses, where another could be the representative trucker. The way these identities will be defined is the 2nd major factor of an ABM. It occurs by first specifying a list of traits that are relevant to our problem but also round enough to provide scope in identity analysis.  An example would be an estimate of their likelihood of contracting the virus on a scale of one to ten where ten means they are certain to contract the virus. Identifying agents in this manner creates a system flaw where the model can only see generalisations, and such will not be able to view an entire country with any accuracy. As such it is valid to create the system boundary that each ABM (there will be many) is specific to each city or council district. This will restrict the variation of these agent identities and increase their accuracy. There must also be a ranking of traits, as decides which agents should be more prioritised for the vaccine. Between these agents there will be links that connect them one and other. The “strength” of each link is dependant on the frequency of contact between the agents. This measurement will allow bad links (links between those with a low chance of survival and those that are highly susceptible) to be prioritised in rollout procedures minimising risk. This entire system allows the system analyser to see which agents are the most ‘influential’ and create the order in which the vaccines should be administered among agents.
+##### What it is:
 
-illustration:
+Agent-Based Modelling follows the process of identifying all the various categories of characters within the system. This allows the system thinker to compare differing traits of these characters and depending on their goal, the system analyser can view any issues regarding the link between agents. As such, the system modeler can reposition the links between characters to form the most beneficial system
+##### Premise: 
+
+The premise behind applying an ABM to successfully analyse the rollout of the covid-19 vaccine is to create a ranking of importance that puts those most at risk of spreading the virus on top and the least at the bottom. This would imply that the safest way to roll out the vaccine is to ensure the minimalization of the virus and protect the health of the Australian community.
+##### How its applied:
+
+The application of ABM is dependant on 3 major factors. The first 1st is to define who the agents are. In our scenario we will define our agents as the generalised identity of a communal character from any and all sectors of society. This would mean one agent could be the representative nurse, a nurse of all nurses, where another could be the representative trucker. The way these identities will be defined is the 2nd major factor of an ABM. It occurs by first specifying a list of traits that are relevant to our problem but also round enough to provide scope in identity analysis.  An example would be an estimate of their likelihood of contracting the virus on a scale of one to ten where ten means they are certain to contract the virus. Identifying agents in this manner creates a system flaw where the model can only see generalisations, and such will not be able to view an entire country with any accuracy. As such it is valid to create the system boundary that each ABM (there will be many) is specific to each city or council district. This will restrict the variation of these agent identities and increase their accuracy. There must also be a ranking of traits, as decides which agents should be more prioritised for the vaccine. Between these agents there will be links that connect them one and other. The “strength” of each link is dependant on the frequency of contact between the agents. This measurement will allow bad links (links between those with a low chance of survival and those that are highly susceptible) to be prioritised in rollout procedures minimising risk. This entire system allows the system analyser to see which agents are the most ‘influential’ and create the order in which the vaccines should be administered among agents.
+
+##### illustration:
 
 ![image](https://user-images.githubusercontent.com/79890509/115864524-4d9c8200-a47a-11eb-925c-4ae65373f5d2.png)
 
 
-Required data sources:
+##### Required data sources:
 •	The population of each district and city.
 •	Occupation populations within districts and cities.
 •	An approximation of how often agents come in contact within each district or city.
@@ -57,18 +60,18 @@ Required data sources:
 
 #### Model 2   - Alternate Paths model
 
-What it is:
+##### What it is:
 This model is similar to ABM in that it will be a network like system. However, the agents within the network will not be subject to ranking through their traits. Instead, only one trait will be considered and the links between these agents.
-Premise:
+##### Premise:
 To find the fastest way to administer the vaccine to the nation of Australia. This would imply that the safest way to rid Austria would be the quickest administration of the vaccine.
-How it’s applied:
+##### How it’s applied:
 The element that will act as a node within the network will be defined by geographical locations that the vaccine must be administered to. These include health clinics, hospitals and pop-up vaccination centres. Since it is difficult to view the entire nation’s worth of clinics and such, we set the system boundary that forces each node to represent it’s responsible vicinity defined by existing borders between councils. Successfully vaccinating the population of a district takes time. How much time is dependant on the population count and the rate of vaccination. Within this model two more system boundaries will be placed, the first is that the population count of districts will not change and the second being that the rate of vaccination will remain constant. This applies a time value to each node, representing how long it takes to vaccinate that population. Links between these nodes represent the routes of transport. These routes will have assigned to them a time value that defines how long it takes to transport the vaccine. In this model the link’s value will be following time measurement conventions. With the model complete, the fastest route for vaccination can be acquired by a program that uses the many values within the system. 
-illustration:
+##### illustration:
 
 ![image](https://user-images.githubusercontent.com/79890509/115864558-5ab97100-a47a-11eb-9033-a6404295b0de.png)
 
 
-Required data sources:
+##### Required data sources:
 •	The population of each district and city.
 •	The estimated average rate of vaccination within districts.
 •	The estimated travel time of each route of transportation.
@@ -76,18 +79,18 @@ Required data sources:
 
 #### Model 3  - Cheapest network model
 
-What it is:
+##### What it is:
   This model is a lot like the previous APM; however, the major difference is that links between nodes are not predetermined. Instead, these links will be determined by system procedures.
-Premise:
+##### Premise:
   To construct the most cost-efficient transport strategy for the Covid-19 vaccine.
-How it’s applied:
+##### How it’s applied:
   Each node represents the geographical location of clinics, hospitals and any other place where vaccine administration is to take place. Between these nodes will exist many possible links. As such these links are given values that represent cost of transportation between nodes. As such a program will be able to determine the most cost-efficient transport model for the vaccine across Australia.
-illustration:
+##### illustration:
 
 ![image](https://user-images.githubusercontent.com/79890509/115864595-69078d00-a47a-11eb-9e11-7c8b8d543f94.png)
 
 
-Required data sources:
+##### Required data sources:
 •	Estimated cost of transport between points of interest.
 Summary
 
